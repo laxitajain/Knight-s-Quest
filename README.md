@@ -7,6 +7,7 @@ A simple, yet captivating game built using Godot's own built-in scripting langua
 
 <br> 
 An indulging experience with a groovy BGM, SFX, and customised GUI! 
+
 ![image](https://github.com/user-attachments/assets/aa0eb8c1-afbf-4b42-9ad9-a3b3ef91ae53)
 
 Functional pickups, aka coins, and a scoreboard to further elevate the gameplay!
